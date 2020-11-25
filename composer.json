@@ -17,10 +17,13 @@
         },
         {
             "name": "Florian Krämer"
+        },
+        {
+            "name": "Jakub Zimoń"
         }
     ],
     "require": {
-        "firebase/php-jwt": "~2.0",
+        "firebase/php-jwt": "5.x",
         "composer/installers": "*"
     },
     "extra": {
